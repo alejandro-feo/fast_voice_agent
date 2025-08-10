@@ -1,0 +1,13 @@
+faster-whisper
+torch
+torchaudio
+sounddevice
+httpx
+python-dotenv
+silero-vad
+numpy
+scipy
+openai
+kokoro
+soundfile
+keyboard
